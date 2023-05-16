@@ -7,4 +7,4 @@
 + I have defined test as an acttive profile in `application.yml` file
 
 ## alternate method
-provide `-Dspring.profiles.active={profile-name}` that profile name could be prod, test or default
+provide `-Dspring.profiles.active=profile-name` that profile name could be prod, test or default
